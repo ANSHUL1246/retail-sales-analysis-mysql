@@ -1,12 +1,13 @@
-# Retail Sales Analysis Using MySQL
+# Retail Sales Analysis Using MySQL & Power BI
 
 ## Project Overview
-This project analyzes retail sales data using MySQL to understand sales performance, customer purchasing behavior, and product profitability.
+This project analyzes retail sales data using MySQL and Power BI to understand sales performance, customer purchasing behavior, and product profitability.
 
 ## Tools Used
 - MySQL 8.0
 - MySQL Workbench
 - SQL
+- Power BI Desktop
 
 ## Database Tables
 1. Customers
@@ -30,6 +31,19 @@ This project analyzes retail sales data using MySQL to understand sales performa
 - Top-selling products
 - Top customers by spending
 - Product-wise profit analysis
+
+## Power BI Dashboard
+Created an interactive dashboard to visualize retail sales performance.
+
+### Dashboard Features
+- Total Revenue
+- Total Orders
+- Total Customers
+- Monthly Sales Trend
+- Top 5 Products by Revenue
+- Category-wise Sales
+
+**Power BI File:** `customer name.pbix`
 
 ## Key Findings
 - Total customers: 10
