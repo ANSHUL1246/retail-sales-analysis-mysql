@@ -34,6 +34,9 @@ This project analyzes retail sales data using MySQL and Power BI to understand s
 
 ## Power BI Dashboard
 Created an interactive dashboard to visualize retail sales performance.
+## Dashboard Preview
+
+![Retail Sales Dashboard](dashboard.png)
 
 ### Dashboard Features
 - Total Revenue
